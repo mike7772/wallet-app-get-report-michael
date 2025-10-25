@@ -1,0 +1,143 @@
+{
+  "card": {
+    "balance": 17.30,
+    "available": 1482.70,
+    "limit": 1500,
+    "noPaymentDue": true,
+    "points": 456
+  },
+  "transactions": [
+    {
+      "id": 1,
+      "type": "payment",
+      "amount": 14.06,
+      "name": "Apple",
+      "description": "Card Number Used",
+      "date": "2025-06-26",
+      "time": "12:47",
+      "user": "Diana",
+      "status": "pending",
+      "icon": "apple",
+      "paymentMethod": "RBC Bank Debit Card",
+      "cashback": 3
+    },
+    {
+      "id": 2,
+      "type": "credit",
+      "amount": 174.00,
+      "name": "Payment",
+      "description": "From JPMorgan Chase Bank Natio...",
+      "date": "2025-06-24",
+      "time": "09:15",
+      "status": "completed",
+      "icon": "bank",
+      "paymentMethod": "JPMorgan Chase Bank National"
+    },
+    {
+      "id": 3,
+      "type": "payment",
+      "amount": 73.58,
+      "name": "IKEA",
+      "description": "Card Number Used",
+      "date": "2025-06-25",
+      "time": "14:32",
+      "user": "Michael",
+      "status": "completed",
+      "icon": "shopping-bag",
+      "paymentMethod": "RBC Bank Debit Card",
+      "cashback": 2
+    },
+    {
+      "id": 4,
+      "type": "payment",
+      "amount": 7.50,
+      "name": "Airalo",
+      "description": "Card Number Used",
+      "date": "2022-05-26",
+      "time": "12:47",
+      "status": "completed",
+      "icon": "wifi",
+      "paymentMethod": "RBC Bank Debit Card",
+      "cashback": 1
+    },
+    {
+      "id": 5,
+      "type": "payment",
+      "amount": 125.00,
+      "name": "Amazon",
+      "description": "Online Purchase",
+      "date": "2025-06-23",
+      "time": "16:20",
+      "user": "John",
+      "status": "completed",
+      "icon": "shopping-bag",
+      "paymentMethod": "Chase Sapphire Card",
+      "cashback": 5
+    },
+    {
+      "id": 6,
+      "type": "credit",
+      "amount": 50.00,
+      "name": "Refund",
+      "description": "Amazon Return",
+      "date": "2025-06-22",
+      "time": "11:05",
+      "status": "completed",
+      "icon": "arrow-left",
+      "paymentMethod": "Chase Sapphire Card"
+    },
+    {
+      "id": 7,
+      "type": "payment",
+      "amount": 42.99,
+      "name": "Spotify",
+      "description": "Monthly Subscription",
+      "date": "2025-06-21",
+      "time": "08:00",
+      "status": "completed",
+      "icon": "music",
+      "paymentMethod": "Wells Fargo Checking",
+      "cashback": 2
+    },
+    {
+      "id": 8,
+      "type": "payment",
+      "amount": 89.00,
+      "name": "Uber",
+      "description": "Ride to Airport",
+      "date": "2025-06-20",
+      "time": "06:30",
+      "user": "Sarah",
+      "status": "completed",
+      "icon": "car",
+      "paymentMethod": "Amex Gold Card",
+      "cashback": 4
+    },
+    {
+      "id": 9,
+      "type": "payment",
+      "amount": 15.75,
+      "name": "Starbucks",
+      "description": "Card Number Used",
+      "date": "2025-06-27",
+      "time": "07:45",
+      "status": "pending",
+      "icon": "coffee",
+      "paymentMethod": "Bank of America Debit",
+      "cashback": 1
+    },
+    {
+      "id": 10,
+      "type": "credit",
+      "amount": 200.00,
+      "name": "Payment",
+      "description": "From Bank of America",
+      "date": "2025-06-19",
+      "time": "10:00",
+      "status": "completed",
+      "icon": "bank",
+      "paymentMethod": "Bank of America Checking"
+    }
+  ]
+}
+
